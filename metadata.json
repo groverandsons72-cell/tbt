@@ -1,0 +1,6 @@
+{
+  "name": "Gym Billing & Membership Manager",
+  "description": "Professional browser-based gym billing, GST invoice generator, member management, and Excel export tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
